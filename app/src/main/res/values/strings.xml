@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Money Rate</string>
+    <string name="title">View Rate</string>
+    <string name="Welcome_text">Welcome to Money Rate!</string>
+    <string name="placeholder">Tap on the view rate button to get the latest rate of the US Dollar, Canadian dollar, petrol, diesel, gold and silver</string>
+</resources>
